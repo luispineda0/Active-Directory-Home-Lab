@@ -1,4 +1,9 @@
 # Installing Active Directory and Creating a User
+<h2>Description</h2>
+In our project it will consist of how to install Acitive Directory on Windows Server 2019 and how to create a user. 
+<br />
+
+<h2>Screenshots of the project</h2>
 After implementing Windows Server 2019, we would be prompted with the Server Manager. Click 'Add roles and features'
 <img src="AD-project1.PNG" width="600px">
 
